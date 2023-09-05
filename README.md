@@ -24,43 +24,46 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> javascript , html , react and css 
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> no
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> the user will have a checkings and saving account 
+the user will purchase products using checkings account 
+the user will have remaining change on checking account from purchse that will then automatically transfer to savings account 
+when inside saviings account user should have access ton change from previous purchase 
 
 - What are the app milestones
 
-> Your answer here...
+>App planning  ,  Creating A REACT app , adding routing and links btw account pages , adding CRUD  to update the savings and checkings , to update savings on interaction instead of manually 
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> need access to the banks data 
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> yes 
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> manually adding the remaining balance in the app yourself and seperate pages
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> After every purchase notify them to add the savings .
 
 - How could people misuse this application?
 
-> Your answer here...
+> not entering the accurate balance 
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> might not be any chnage remaining then ur not saving daily or no purchase made .
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +77,43 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> javascript , html , react and css 
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> no
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+>the user will have a login account to app
+the user will have a drop down option of topics and categories to discuss 
+the user will be placed in chat with someone that picked the same category or similar 
+if no users in category have ai hold coversation
 
 - What are the app milestones
 
-> Your answer here...
+> Plan app , access api , build skeleton on application chat page , complete funtionality usind CRUD , edit debug 
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> That someone may not pick the same category
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> no
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> maybe just a chat messenger without topic choice 
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> adding resonable topics
 
 - How could people misuse this application?
 
-> Your answer here...
+> talking off a different topic then chosen 
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> no .. accesing data 
