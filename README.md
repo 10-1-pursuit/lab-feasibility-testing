@@ -25,18 +25,73 @@ A user will round up the amount spent for every purchase made and put the change
 - What technologies are needed?
 
 > Your answer here...
+I would need front-end and back-end implementation.
+
+For the front-end, I would mainly need: 
+    UI framework that is most compatible with the programming language that would be easy on both Users and Devs. 
+
+For the back-end, I would mainly need: 
+    A server to see the implementation real-time, a database to store any collected data from users or Devs and an API that can handle user authentification, secure transactions and interactions between financial services. If this cannot be done in one API, I would need multiple 
+
+I would also need tech that allows for mobile development features and usability
+
+I would need airtight or as close as possible, security features. I would also need to make sure my app is compliant with financial regulations and other security standards
+
+Analytic tools that monitor user behavior and app performance 
+
+Customer support would be necessary as well 
+
+I would also need proper documentation for users and devs alike 
+
+A lawyer would be a necessary investment 
 
 - Would you have to learn a new technology?
 
 > Your answer here...
 
+I would have to learn the ins and outs of security regulations or any tech that would lessen the work for me 
+
+I would potentially need to learn about Cloud Hosting to store data 
+
+I would need encryption to protect and secure user data 
+
+Hopefully, I wouldn't need to learn a new programming language
+
+Seriously, a great lawyer that can offer the best protection in any use case
+
+I might need a platform for document management or even creation 
+
+
+
 - What would MVP look like (use user stories)
 
 > Your answer here...
+As a new user, I would want to be able to sign up securely with my email and password. 
+As a registered user, I would want secure sign in and notification features that show this.
 
+As a user, I would want a secure connection to the account my funds are coming from
+
+As a user, I would want secure monitoring of my transactions, automated or manual roundup of spare change and more notifications.
+
+As a user, I would want to set up the amount to save/round up inside of a savings account
+
+As a user, I would want to track the process of how much I've saved 
+
+As a user, I would also want to see how, if possible, I could save more. 
+
+As a user, I would want to withdraw the funds I've saved into my bank account or even a new account
+
+As a user, I would want an easily navigatable site AND profile.
+I would want to CRUD my profile and any features I have access to.
+
+As a user, I would like to see the app's security measures, legal statements, how my data is used and opt out of any optional communications
+
+As a user, I would want access to timely and adequate customer support
 - What are the app milestones
 
 > Your answer here...
+I would need to do adequate research to ensure I can at least get a framework in
+I would then create a time-line of the goals I would like to set 
 
 - What other things need to be considered about this app?
 
