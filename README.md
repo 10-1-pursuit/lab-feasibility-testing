@@ -35,7 +35,9 @@ For the back-end, I would mainly need:
 
 I would also need tech that allows for mobile development features and usability
 
-I would need airtight or as close as possible, security features. I would also need to make sure my app is compliant with financial regulations and other security standards
+I would need airtight or as close as possible, security features.
+
+I would also need to make sure my app is compliant with financial regulations and other security standards
 
 Analytic tools that monitor user behavior and app performance 
 
@@ -90,32 +92,100 @@ As a user, I would want access to timely and adequate customer support
 - What are the app milestones
 
 > Your answer here...
-I would need to do adequate research to ensure I can at least get a framework in
+
 I would then create a time-line of the goals I would like to set 
+
+I would then go down the list, step by step: 
+
+ -if i have a team, I would need to ensure that we are all on the same page in terms of goals, schedules and a solid if not flexible plan. I would want very little room for discrepencies and allocate time for check-ins
+
+I would need to do adequate research to ensure I can understand the task and how best to implement the plan
+
+A framework would need to be created with as clear an outline as possible
+
+I would set up a goal planning checklist 
+
+I would need feasibility testing 
+
+Learn how to use the tech sufficiently 
+
+Build and test a basic app 
+
+Build user interactions 
+
+Update user interaction for best functionality 
+
+Recheck task requirements
+
+Make it look great 
+
+Handle any questons, comments, concerns, bugs, etc
+
+Final reviews 
+
+Submission
+
 
 - What other things need to be considered about this app?
 
 > Your answer here...
+I would need to consider any admin management functionalities 
+Any cost management and monetization
+Possibly a feedback from clients and potential releases of updates and/or new features
+Any accessibility features 
+Compatiblity across platforms, devices, etc
 
 - Is this app idea feasible for a hack-a-thon?
 
 > Your answer here...
+   Yeaaaaaahhhh 
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
 > Your answer here...
+Can I? At this moment , not a thought I'm willing to dwell on. 
 
 - How could you encourage users to interact with this app regularly?
 
 > Your answer here...
+I would encourage users to test out the app for 14 days and if it has helped them save a certain amount, I would give them bonus savings. Nothing outrageous, my pockets cannot handle that. 
+Even daily or milestone rewards 
+I would give personalized recommendations (BIG $$) on how to save more or better
+
+Challenges
+Reminders
+Referrals 
+Gamification 
+Feedback options 
+
 
 - How could people misuse this application?
 
 > Your answer here...
+People could use unauthorized bank accounts and commit fraud
+Money laundering apparently 
+Data breaches from hackers
+Scammers can create a fake app in attempt to be us
+Spam attacks as well 
 
 - Are there any safety issues with this application?
 
 > Your answer here...
+Yes, and to combat those issues - as stated above- I would potentially:
+
+have very strict user authentification which includes monitoring access, unusual activity and thus flagging said activity
+
+AML & KYC features 
+
+Strong data encryption 
+
+Educating users on their safety and use of the app 
+
+Fraud detection algos
+
+Follow strict data protection guidelines 
+
+User blocking features
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
