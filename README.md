@@ -24,43 +24,56 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> An app 
+    > JavaScript, CSS, HTML, React
+    > A calculator to caluculate the totals saved
+    > A place to store the values of what's saved
+    > Purchase history to see what was spent/what was rounded up
+> Login-in possible
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> From the technologies listed above no, however when implementing the connection to banks and credits cards it is possible a new technology may need to be learned. 
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> A user can enter the amount of the purchase.
+> A user can enter the amount rounded up from the purchase to be saved.
+> A user can calculate how much they have saved.
+> A user can see how much they have saved in total. 
 
 - What are the app milestones
 
-> Your answer here...
+> Entering purchase amounts works
+> Entering amounts to be saved works
+> Calculator works
+> Ability to view totals entered works
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> Will the user need to log-in to use/view app
+> Security concerns about who can view/edit the users information in the app
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Possibly, if there is a larger development team and tasks are spread out amongst the team. If the development team is on the small side like stated in the notes as 4 people, I don't think it is feasible for this time frame.
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> If possible use an already built calculator within the app instead of having to create that functionality. It would save on time.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Add an alarm or notification feature that would remind the user daily
+> Have an incentive that offered something when a user saved a certain amount in a set period of time
 
 - How could people misuse this application?
 
-> Your answer here...
+> Since they have to manually enter the information, user error such as entering the wrong amount and/or miscalculations may occur.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Yes, if it's not required to log-in with a secure username and password someone who's not the user could get into the app and see or even change what a user has saved.
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +87,66 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> An app 
+    > JavaScript, CSS, HTML, React
+    > A way to text chat or voice chat
+> Database
+    > API that contains different topics the user can pick from
+    > Moods to pick from
+> A way to match based on selections & mood
+> A way to rate experience
+> Log-in should be required
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Not with the technologies above
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> A user should be able to log-in
+> A user should be able to choose whether to chat through text or voice 
+> A user should be able to choose a topic to discuss
+> A user should be able to choose a mood 
+> A user should be able to be randomly matched with another person
+> A user should be able to chat
+> A user should be able to rate the experience
+> A user should be able to expect to be anonymous
+
 
 - What are the app milestones
 
-> Your answer here...
+> Log-in works
+> Text chat works
+> Voice chat works
+> Topics can be chosen
+> Mood can be chosen
+> Match randomly based on choices works
+> Rate experience works
+> Anonymity functionality works  
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> Ability for chats to be moderated to ensure no bullying, threats, or harassment
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> No, there a lot of moving parts. This timeline doesn't leave room for challenges that may arise to have time to be fixed. 
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Possibly outsource a lot of the app functionality for random matching, voice chat, text chat, and rating experience. 
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Add notifications to remind user about the app
+> Have incentives for using the app, for example offering something for every 10 chats rated.
+> 
 
 - How could people misuse this application?
 
-> Your answer here...
+> Because it's anonymous some people could be more likely to use it to bully, threaten or harrass others. 
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Possibility of it being hacked and no longer being anonymous
+> If their is no age verification required, possiblity of minors getting on and using the app
