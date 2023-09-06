@@ -24,43 +24,55 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> **Mobile App Development:** Android or iOS 💁‍♂️
+> **Real-time Chat:** Tech like Firebase for real-time messaging ⏳ ✉️
+> **User Rating System:** A database to store user ratings and feedback
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Yes, I'll have to learn how to implement real-time chat functionality since I'm not familiar with it 😅
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> **As a user, I can :**
+✨ Select a topic & mood
+✨ Be matched with another user
+✨ Have a text chat with the matched user
+✨ Rate the discussion after it ends. 
 
 - What are the app milestones
 
-> Your answer here...
+>✨ Create a basic app interface with topic & mood selection. 😌
+>✨ Implement real-time chat functionality. 🗣️
+>✨ Add rating & feedback system. 🗣️
+>✨ Ensure anonymity and user security 🥸 🛡️
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+>✨ Privacy measures to protect user identities. 🛡️
+>✨ Server scalability to handle large number of chats 🗣️ 🗣️ 🗣️ 
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes, especially if I focus on text-based chat & basic rating features. 💁‍♂️
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> I can start with text chat only and then consider adding voice chat as a reach goal **IF** time allows 🫡
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Perhaps implement a reward system for active users such as: 
+**🪙 Vitural Currency 🪙:** Users can earn by being active on the app. They can then use the currency to buy virtual items like custom avatars or backgrounds.
+**✨ Unlockable Features ✨ :** Users who reach a certain level can unlock new chat topics or mood options.
 
 - How could people misuse this application?
 
-> Your answer here...
+> Users might engage in inappropriate discussions. 🙊
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Ensure anonymity & privacy protection measures to prevent users from sharing personal information. 
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +86,49 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> There would need to be a combination of front-end & back-end technologies such as:
+**Mobile App Development** & **Real-time Chat**.
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Since I'm not familiar with these technologies then yes I would need to learn them.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> **As a user, I can :**
+✨ Log in & create an account.
+✨ Be matched with another user based on my preferences.
+✨ Have a text chat with the matched user
+✨ Rate the discussion after it ends.  
 
 - What are the app milestones
 
-> Your answer here...
+>**1** Create a basic app interface with topic & mood selection. 😌
+>**2** Implement real-time chat functionality. 🗣️
+>**3** Add rating & feedback system. 🗣️
+>**4** Ensure anonymity and user security 🥸 🛡️
 
 - What other things need to be considered about this app
 
-> Your answer here...
+>**1** Implement a reporting system to address inappropriate or abusive behavior within the app. 
+ **2** Consider the long-term storage of chat histories, user profiles, and ratings.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes its feasible if  I focus on text-based chat & basic matching features for the MVP. ✨
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Start with text-based chat only and consider adding voice chat or other enhancements as future features. Keep the MVP simple and functional. 🫡
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Notify users of new chat opportunities or matches. ✌🏽
 
 - How could people misuse this application?
 
-> Your answer here...
+> Misuse might include engaging in inappropriate discussions, harassment, or spamming. 😵
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Ensuring user safety is of paramount importance. It's essential to maintain user anonymity, prevent the sharing of personal information, and automatically erase chat histories at the conclusion of each session to safeguard user privacy. 🫡🛡️
