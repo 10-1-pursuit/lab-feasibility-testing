@@ -200,39 +200,131 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 - What technologies are needed?
 
 > Your answer here...
+I would again need both front-end and back-end functionalities 
+
+I would need language and graphics that complement each other 
+
+I would need real-time messaging functionality for text & voice chat which might be a third-party service - that generates random numbers each time
+
+Secure User authentification 
+
+A matching algo that pairs users 
+
+
+
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Your answer here... 
+Hmm
 
 - What would MVP look like (use user stories)
 
 > Your answer here...
+A new user should be able to register via email and password
+
+A registered user should be able to log in securely
+
+As a user, I would want a secure connection that protects me from cyber attacks
+
+A user should be able to see Terms of Agreements, how their information is being used, how often, any legalities, penalties, liabilities or non-liabilities, persons of contact, etc.
+
+A user should be able to manage notification preferences as well as prefernces in their profile
+
+A user should be able to see some comprehensible graphics that opt them to choose a topic and a mood
+
+A user should be prompted with options and clear warnings before agreeing to enter a chat - each time
+
+ 
+
+
 
 - What are the app milestones
 
 > Your answer here...
 
+Decide what we're building - make a clear goal
+
+Set any agreements, expectations, flexibilities, need-to-knows
+
+Plan a reasonable time frame 
+
+Factor out what we don't yet know from what we do know
+Do research!!!! 
+Educate ourselves that will help us achieve our goal
+
+Come together and plan the app 
+
+What do we need and who will contribute what?
+
+Bring contributions together and do test runs
+
+Implement any necessary changes
+
+Make it happen better than we thought we could
+
 - What other things need to be considered about this app
 
 > Your answer here...
 
+Firstly, I need a lawyer 
+
+A database should exist that stores conversation logs to ensure and hopefully prevent any form of harrassment
+
+That we have reliable safe APIs generating data
+
+A strong support communications sector for users
+
+A secure report button that alerts us of any suspicious conversations from users
+
+Tracking frequency of user sign-ins and conversations per sign-in
+
+Length of longest & shortest sessions. Average session time
+
+Some sort of feature that blocks individuals - as best as possible- from sending their location and phone numbers. Even emails and social media - 
+
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Your answer here... 
+For 2 days? Heck no - at least not full scale or even 'real'
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
 > Your answer here...
+Hmm, yes. It would just remove a lot of the functionality that would make a really amazing app.
+
+It could be a basic web page or app with selected message responses for user conversations
+
+Users would get shaded silhouette profile options or something unisex like an emoji
 
 - How could you encourage users to interact with this app regularly?
 
 > Your answer here...
+Tell them come on down for a night on the 'inter-town' 
+
+Maybe a reward for most conversations - is that ethical? 
 
 - How could people misuse this application?
 
 > Your answer here...
+Some might try to see exactly who they are talking to through non-genuine ways
+
+Some might try to stalk users if they find out who they are
+
+Some might still send prohibited information
+
+A third party could hack into a conversation and gain information on users
+
+Some might try to scam users out of financial information
+
+Some might make an app similar to ours that does all the above and we get blamed
 
 - Are there any safety issues with this application?
 
 > Your answer here...
+
+User information such as real name, address, email other personal or identifiable information'
+
+Anyone hacking into our app or the software or the database 
+
+Scammers, spammers, phishers
