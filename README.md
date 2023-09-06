@@ -81,40 +81,39 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> On creating a mobile app with ios and android, to manage user accounts, match users and facilitate communication. Using technology for real time text and voice chat functionality. User authenication to make sure systems to protect all users accounts.
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Implementing real time chat functionality for voice chat, might require learning new technologies or libraries for real time communication.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user, I can log in and select a topic and mood for the chat, log out securely,rate the chat after it ends, log in and select a topic and mood for the chat.
 
 - What are the app milestones
 
-> Your answer here...
+> Having a user regisration, authenication system, using real time text chat functionality , usser rating systems for chat interactions, and using secure user data management on the backend.
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> Adding data privacy and security , especially when dealing with unknown users, ensuring a smooth user experience during chats. Implementing moderation features to prevent misuse.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes, it is feasible with a coordinated team and a focus on the core chat functionality. The real-time nature of the app may require careful development.
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> I will Simplify the MVP by intially focusing on text chat only, postponing voice chat for future development phases.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> I will try to encourage users through topic based rewards or badges similiar to twitch, sending chat reminders and notifications. 
 
 - How could people misuse this application?
 
-> Your answer here...
-
+> Users might post explicit contents such as gang violence , nudity etc. The main goal is to keep a respectful environment for all users that recently join the chatapp.
 - Are there any safety issues with this application?
 
-> Your answer here...
+> I will keep to ensure the data privacy is secure because it an anonymous app. For backup security measure , implementing these protection to ensure users data and accounts are secure. 
