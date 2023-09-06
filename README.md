@@ -24,43 +24,57 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> ** We would definitely need Javascript, HTML, and CSS.
+> ** It could be useful to consider using the Math Object in order to create a limited 'calculator' for rounding up the amount spent for every purchase.
+> ** A database would be needed to store personal data including the accumulated amount of money saved.
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> ** It would be necessary to learn how to incorporate a database into an App.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> ** User will have to sign into their account.
+> ** User will have to use a database to account for a purchase and its exact cost.
+> ** User will have to do calculations to round up the exact price to the next whole dollar amount.
+> ** User will have to calculate the difference between the exact amount and the number rounded up to.
+> ** User will have to have to save the difference into what would be considered a savings account.
+> ** User will have to be able to repeat this process accumulating savings with each purchase into this "account".  
+> ** Team should be able to show that app can capture and save user data, allow users to add purchases and their prices, and then round those prices up to the nearest dollar.  Team should be able to show that the app can SAVE the purchase prices, the amount rounded up to, and the amount saved.  
+
 
 - What are the app milestones
 
-> Your answer here...
+> Note: This is a 3-day project development starting on Friday and ending on Sunday 6pm. 
+> Day 1 (Friday - approximately 2 hours):
+   Set up Trello, asking clarifying questions about the project, accessing skills and capabilities of each team member, ensuring all team members are in contact with one another, reviewing project requirements, assigning tasks, wireframes, feasibility testing, planning schedules and meets, set-up Github repository and setting milestones for each team member and the team as a whole. 
+
+> Day 2 (Saturday)
+    > ** Team should be able to build at least a workable test prep or demo at this point. If not, it might be necessary to consider other app ideas.
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> This app has future possiblities with banks and credit card companies to automatic the process of rounding cost of purchases to the nearest higher dollar and then putting the "change" in savings.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> I have not yet had any experience with hack-a-thons, so I cannot give a reasonable judgment to this question.  However, I believe that a team of extremely talented and/or experinced developers could have a decent prototype available in the alotted time.  
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Possibly, if there are API to use which could reduce the time it takes to develope databases, log-in accounts, etc.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> This is a difficult question that I cannot answer at the moment.
 
 - How could people misuse this application?
 
-> Your answer here...
+> As the app stands now, people need to manually add the purchase info and the "change" saved after rounded up. If people are not honest about the amount of purchase the roundup amount and therefore the change saved will be fraudulent.  
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Yes. Sign-in security issues. data security issues.
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
