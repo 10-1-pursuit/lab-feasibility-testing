@@ -24,43 +24,58 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> Javascript, CSS, HTML, React
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Depending on future implementations Databases, payment gateways & certain APIs may be required.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user, I can create an account and log in. 
+
+> As a user, I can enter my daily purchase amounts.
+
+> As a user, I can see my savings balance.
+
+> As a user, I can set saving goals.
 
 - What are the app milestones
 
-> Your answer here...
+> Day 1:
+User registration and login system.
+
+> Day 2:
+Calculate and display savings balance.
+Add savings goals functionality.
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> Data security and privacy (handling financial data).
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Focus on manual transaction entry and basic savings tracking.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Offering rewards for reaching goals.
+
+> Send notifications and reminders to enter daily transactions.
 
 - How could people misuse this application?
 
-> Your answer here...
+> Users may artificially inflate their transactions to save more money.
+
+> Spamming the system with fake transactions.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Ensure secure handling of user financial data.
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +89,53 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> Javascript, CSS, HTML, React
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Real-time chat or voice communication features may require learning new technologies.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user, I can log in anonymously.
+
+> As a user, I can select a topic and mood for a conversation.
+
+> As a user, I can chat with another person.
+
+> As a user, I can rate the conversation.
 
 - What are the app milestones
 
-> Your answer here...
+> Day 1:
+User registration and anonymous login.
+Topic and mood selection.
+Basic chat functionality.
+
+> Day 2:
+Implement voice chat (if feasible).
+Implement rating system.
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> Ensuring anonymity and privacy along with moderation for inappropriate content.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Exclude voice chat if too complex.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Award points or badges for quality conversations and notify users of new matching opportunities.
 
 - How could people misuse this application?
 
-> Your answer here...
+> Inappropriate content or harassment.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Ensure user data privacy and security.
