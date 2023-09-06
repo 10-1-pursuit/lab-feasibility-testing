@@ -24,43 +24,43 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+>Javascript, Css, HTML
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> I would need an API that gets access to an users banks account.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> A form where users input their expenses or receipts and it calculates the change.
 
 - What are the app milestones
 
-> Your answer here...
+> Creating functional UI, connecting the users bank account, and creating a function that calculates the change.
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> Foreign bank accounts and getting access to them and fraudulent users.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Creating the functions to calculate the change is feasible but using a Bank API might take some time.
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Yes, if bank accounts aren't needed and the user manually adds the change to their own accounts.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> When they look at their savings after a month, they should be happier.
 
 - How could people misuse this application?
 
-> Your answer here...
+> Users can steal personal info from other users and access their account information.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Fraud
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +74,45 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> JS, CSS, HTML
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Software/API that allows for communication.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> A page with a navigation bar for selecting category and mood with a text box in the middle for conversations.
 
 - What are the app milestones
 
-> Your answer here...
+> 1. Creating a Nav Bar and Text box.
+2. Learning new API for communication.
+3. Making sure users can properly communicate with one another.
+4. Securing user information.
+5. Fixing bugs.
+
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> Making sure the conversations aren't offensive and to the topic.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> I would just include a text box without the voice chat.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Make sure the app feels fun and interactive. Have topics that encourage deep conversations.
 
 - How could people misuse this application?
 
-> Your answer here...
+> People can enter the chats for innapropriate conversations.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> People leaking their information.
