@@ -25,18 +25,48 @@ A user will round up the amount spent for every purchase made and put the change
 - What technologies are needed?
 
 > Your answer here...
+<!-- For a 2-day hackathon to create an app with Chime's Round Up functionality: -->
+
+1. **Development Platform**: Choose a mobile app development platform (e.g., React Native, Flutter) for cross-platform compatibility.
+
+2. **Backend**: Set up a basic server and database (e.g., Firebase) to handle transactions and savings data.
+
+3. **Payment Processing**: Integrate a payment gateway (e.g., Stripe) for secure transactions.
+
+4. **Round-Up Logic**: Develop logic to calculate and transfer spare change.
+
+5. **Security**: Implement user authentication and data security measures.
+
+6. **UI/UX Design**: Create a simple, user-friendly interface.
+
+7. **Notifications**: Add push notifications for user updates.
+
+8. **APIs**: Connect with external financial services and institutions.
+
+9. **Testing**: Test rigorously to ensure functionality.
+
+10. **Documentation**: Create basic documentation for your app.
+
+Remember to prioritize security and compliance, and be prepared for scaling and maintenance as needed.
 
 - Would you have to learn a new technology?
 
 > Your answer here...
 
+3,4,5,7 from previous list
+
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> Your answer here... 
+
+A user should be able to save the remaining balance from a transaction rounded to the nearest the closest dollar amount .
+
+A user can set the amount they want to round per transaction 
 
 - What are the app milestones
 
 > Your answer here...
+Plan w/ trello , exclalidraw , review requirements , meet w/ team , set up repo, learn how to use new technology ,build & deploy , intergrate user interaction (ui), TEST , TEST, TEST, & WHEN UR DONE , TEST AGAIN 
 
 - What other things need to be considered about this app?
 
@@ -44,15 +74,15 @@ A user will round up the amount spent for every purchase made and put the change
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Your answer here... Sureeeeeeeee
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Your answer here... No, this the best I can do for now.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Your answer here... Referral program , ads
 
 - How could people misuse this application?
 
@@ -60,7 +90,7 @@ A user will round up the amount spent for every purchase made and put the change
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Your answer here... Security measures to protect fraud .
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -75,10 +105,42 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 - What technologies are needed?
 
 > Your answer here...
+To create a networking app for topic-based random matching, you'll need:
+
+1. **App Platform**: Choose a development platform (e.g., React Native, Flutter).
+
+2. **Backend**: Develop a server (Node.js, Python) and database (MySQL, MongoDB).
+
+3. **Authentication**: Implement user registration and login.
+
+4. **Topic Selection**: Allow users to pick discussion topics.
+
+5. **Matching**: Design an algorithm for topic-based matching.
+
+6. **Messaging**: Integrate real-time chat using WebSockets or chat APIs.
+
+7. **UI Design**: Create a user-friendly interface (UI/UX design).
+
+8. **Notifications**: Include push notifications.
+
+9. **Testing**: Ensure app functionality, privacy, and security.
+
+10. **Hosting and Scaling**: Deploy on a cloud provider for scalability.
+
+11. **Privacy and Security**: Implement data protection and comply with regulations.
+
+12. **Monetization (Optional)**: Consider revenue models.
+
+13. **Documentation**: Create user and developer guides.
+
+14. **Legal Compliance**: Address legal and regulatory issues.
+
+Focus on user privacy and scalability, and maintain the app for a positive user experience.
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Your answer here... 
+3,5,6, 8, 12, 13 ,14 
 
 - What would MVP look like (use user stories)
 
@@ -94,7 +156,7 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Your answer here... YES, SUPER 
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
