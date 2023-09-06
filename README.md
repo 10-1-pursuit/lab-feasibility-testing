@@ -24,43 +24,51 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> I would use the technology im use to know so Js/JSX React and maybe Bootstrap for UX design. I would reference the calculator work we did. A phone app would work best since guest would use it on the move but for now desktop whould be ok.
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Eventually, to work with credit and bank cards. I think for the MVP users would put their recipits into the phone/desktop. Maybe save them as a picture? (* and it pulls the total? but that's for later development)
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> A <USER> can enter a reciept total and have it round up to leave a flat number (ie; 3.01 === 3.50 || 4.00). 
+> A <USER> can set a min/max amout to round up for the purchase. (ie; 3.01 === 3.50 || 4.00). *Round to the nearst .50 or 1.00
+
+> A <USER> can see the amount added to the purchase price.
+> A <USER> can see the amount saved over all.
+> A <USER> can adjust where the user puts the savings (ie applePay, savings, another credit card)
 
 - What are the app milestones
 
-> Your answer here...
+> Day 1: Trello, wire framing, setting up GitHub, brain storming and maybe breaking up known components into groups. Asking clarifying questions
+
+> Day 2: I'd probably start the code base today. Day 3 get someone to help me with the UX design because thats the most impressive part for non-coders.
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> Do we need a database of past reciepts and what money went where
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes! I think so now! Setting up the MVP as little more than a calculator and a saved database .json would have the MVP requirments and lend for easy layout design.
+
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Yes, speaking as I mentioned - it seems feasible but would mostly behave as a calculator with out the imagery functionality of pulling numbers from photos of recipts and connecting with banks
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> alerts that send (Look how much you've saved!) or features that allow you to review your past purchase (working along side a salesbot) 
 
 - How could people misuse this application?
 
-> Your answer here...
+> It's connection with the banks is a major concern.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> It's connection with the banks is a major concern.
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,27 +82,30 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+  Research neeeded for other backend services and libarays; CometChat Widget and Firebase backend service is where i would start.
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Oh yes. Several. 
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> A <newUser> could create a simple non-descriptive profile. Maybe saving some fave topics of conversation and mood emojies/type
 
 - What are the app milestones
 
-> Your answer here...
+> Full discusion of what technology is needed and how small our initial chat group would be.
+> Breaking up into teams to research, wirefram, gitHub and Trello.
+> What components are needed and how we should divide the work flow
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> this seems HEAVY for a hackathon their seem to be alot of technology to get up to speed on.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Perhaps, a randomized chat genertor?  The services ive found breifly (cometChat) does require payment.
+
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
@@ -102,12 +113,12 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> If the <USER> had a favorited list of conversation topics or moods we could call their attention if someone else is looking for that topic or listed mood.
 
 - How could people misuse this application?
 
-> Your answer here...
+> we would need a chatbot of some sort to listen to the conversation. could easily get offensive. 
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Harassment
