@@ -24,43 +24,50 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> It will be used for IOS and Android platforms. 
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Yes,it will be integrating with payment APIs and bank systems would likely require learning new technologies related to financial transactions and security protocols.
 
 - What would MVP look like (use user stories)
-
-> Your answer here...
+User Stories for the Minimum Viable Product(MVP)
+> As a user, I can register an account.
+As a user, I can manually input my daily expenses and round up the change.
+As a user, I can view my total savings.
+As a user, I can log in and log out securely.
 
 - What are the app milestones
 
-> Your answer here...
+> 1. User registration and authenciation system.
+2. Develop the expense tracking feature.
+3. Implement the round-up mechanism. 
+4. Create a dashboard to display total savings.
+5. Securely store user data on a backend server. 
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> Data privacy and security  when dealing with financial data will affect the app. It will be user friendly interface for easy expense tracking.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes, it is feasible for a hack-a-thon with a group of developers and a focused approach on essential features.
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> The MVP focus on manual expense tacking and round up savings without complex on integrations with banks.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> The notifications will be rewards for consistent saving and constant reminders or notifications to input daily expenses.
 
 - How could people misuse this application?
 
-> Your answer here...
+> Users might miuse the app by entering false expenses to mainpulate savings. Proper validaiton and monitoring are necessary to prevent misuse.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Ensuring secure data storage and tranmission is crucial to protect user financial information. Strong user authenciation and authorization mechanisms are essential to safeguard user accounts.
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
