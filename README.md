@@ -24,43 +24,57 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> IOS and Android platform.
+  Node.JS/React
+  Database to store user data.
+  Security to protect user financial data.
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Yes having a secure API to use.
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user, I can create an account.
+  As a user, I can manually input my daily transactions.
+  As a user, I can see the rounded-up change added to my savings balance.
 
 - What are the app milestones
 
-> Your answer here...
+> User registration and authentication
+  CRUD functionality.
+  Basic User Interface.
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> Data security to ensure user financial data is encrypted and secure.
+  Complying with regulations for linking banks.
+  User interface is user-friendly and fluid.
+  Mobile compatibility.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> No because getting the bank to link to a bank potentially will take a while.
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Yes you can work on user interface with manual transaction input feature and make it fluid and sleek along with leaving bank integration for a future change.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Send weekly notifications with savings progress.
+  Set milestones for saving a certain amount.
+  Offer rewards or "dailies" for everyday usage.
 
 - How could people misuse this application?
 
-> Your answer here...
+> User can input false data to lie about how much theyre really saving.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Protecting user financial data is crucial
+  Ensure every user transaction is confidential
+  Comply with financial regulations and data laws
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +88,59 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> Node.js/React.
+  IOS and Android.
+  Real-time chat.
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> Real-time Chat
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> As a user, I can log in and create an account.
+  As a user, I can select a topic and mood for a conversation.
+  As a user, I can randomly match with a user.
+  As a user, I can engage in text or voice chat.
+  As a user, I can rate the quality of the discussion.
 
 - What are the app milestones
 
-> Your answer here...
+> User registration and authentication
+  Topic and mood selection
+  Matchmaking algorithm
+  Real-time chat
+  User rating system
+  Basic user interface
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> User data privacy.
+  A report button and moderator to judge wether a person should be banned.
+  Server scalability to handle potentially large amount of users at one time.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> No because getting real-time chat to work within a dat is not feasible.
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> Focus on text chat only and leav voice chat as a future change.
+Use pre-built real-time chat libraries to save developement type.
+Simplify moode selection to speed up developement.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> Implement milestones and rewards for daily use.
+  Show notifications on trending moods or topics.
 
 - How could people misuse this application?
 
-> Your answer here...
+> Inappropriate or offensive conversations.
+  Trolling, and spamming, and cyberbullying.
+  Users trying to find eachother outside the app.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Breach in security and show user information.
+
